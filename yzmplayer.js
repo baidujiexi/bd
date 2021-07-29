@@ -242,8 +242,8 @@ function(e, t) {
 					e
 				}
 			}(i);
-		console.log("    _     _                                  \n   (_)   | |                                 \n    _  __| |_   _ _____ __ ___    ___ _ __   \n   | |/ _` | | | |_  / '_ ` _ \  / __| '_ \  \n   | | (_| | |_| |/ /| | | | | || (__| | | | \n   | |\__,_|\__, /___|_| |_| |_(_)___|_| |_| \n  _/ |       __/ |                           \n |__/       |___/                      ");
-		console.log('%cwww.jdyzm.cn', 'font-size:2em');
+		console.log("百度解析");
+		console.log('%cwww.bdjx.vip', 'font-size:2em');
 		console.log('%c页面加载完毕消耗了' + Math.round(performance.now() * 100) / 100 + 'ms', 'background:#fff;color:#333;text-shadow:0 0 2px #eee,0 0 3px #eee,0 0 3px #eee,0 0 2px #eee,0 0 3px #eee;');
 		t.
 	default = a.
